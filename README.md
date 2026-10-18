@@ -17,6 +17,12 @@
 <a href="https://www.instagram.com/govindalolge/"><img src="https://img.shields.io/badge/Instagram-Follow-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"></a>
 <a href="mailto:govindalolge@digvertise.com"><img src="https://img.shields.io/badge/Email-Contact-167D79?style=for-the-badge" alt="Email Govinda"></a>
 
+<br><br>
+
+<a href="https://yapvo.com/"><img src="https://img.shields.io/badge/YAPVO-Website-5530C5?style=for-the-badge" alt="YAPVO website"></a>
+<a href="https://vaao.in/"><img src="https://img.shields.io/badge/VAaO-Website-167D79?style=for-the-badge" alt="VAaO website"></a>
+<a href="https://play.google.com/store/apps/details?id=in.vaao.yapvo"><img src="https://img.shields.io/badge/YAPVO-Android%20App-249B55?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get YAPVO for Android on Google Play"></a>
+
 </div>
 
 ## The founder's desk
@@ -48,12 +54,14 @@ The flagship brand focused on brand growth, marketing strategy, creative executi
 
 Building a platform that brings together creator experiences, professional connections, and automation.
 
+**Explore:** [Website](https://yapvo.com/) · [Android app on Google Play](https://play.google.com/store/apps/details?id=in.vaao.yapvo)
+
 <sub>Product development in progress.</sub>
 
 </td>
 <td width="34%" valign="top">
 
-### ⚙️ VAaO
+### ⚙️ [VAaO](https://vaao.in/)
 
 **Business technology & operations**
 
