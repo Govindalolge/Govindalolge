@@ -3,12 +3,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/founder-banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/founder-banner-light.svg">
-  <img src="./assets/founder-banner-light.svg" width="100%" alt="Govinda Lolge | Founder and Product Builder | Digvertise, YAPVO and VAaO">
+  <img src="./assets/founder-banner-light.svg" width="100%" alt="Govinda Lolge | Founder and Product Builder | Digvertise, YAPVO and VAaO™">
 </picture>
 
 <br>
 
-### Founder of Digvertise™ · Building YAPVO & VAaO
+### Founder of Digvertise™ · Building YAPVO & VAaO™
 
 **From business challenges to thoughtful digital products.**
 
@@ -20,7 +20,7 @@
 <br><br>
 
 <a href="https://yapvo.com/"><img src="https://img.shields.io/badge/YAPVO-Website-5530C5?style=for-the-badge" alt="YAPVO website"></a>
-<a href="https://vaao.in/"><img src="https://img.shields.io/badge/VAaO-Website-167D79?style=for-the-badge" alt="VAaO website"></a>
+<a href="https://vaao.in/"><img src="https://img.shields.io/badge/VAaO™-Website-167D79?style=for-the-badge" alt="VAaO™ website"></a>
 <a href="https://play.google.com/store/apps/details?id=in.vaao.yapvo"><img src="https://img.shields.io/badge/YAPVO-Android%20App-249B55?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get YAPVO for Android on Google Play"></a>
 
 </div>
@@ -61,7 +61,7 @@ Building a platform that brings together creator experiences, professional conne
 </td>
 <td width="34%" valign="top">
 
-### ⚙️ [VAaO](https://vaao.in/)
+### ⚙️ [VAaO™](https://vaao.in/)
 
 **Business technology & operations**
 
@@ -90,7 +90,7 @@ STRATEGY  →  PRODUCT  →  EXPERIENCE  →  EXECUTION
 
 DIGVERTISE   Brand growth & digital solutions
 YAPVO        Creator-first platform
-VAaO         Modular business technology
+VAaO™         Modular business technology
 ```
 
 <div align="center">
