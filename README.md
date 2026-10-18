@@ -1,108 +1,76 @@
+<!-- THE BUILD ZINE · creative founder profile concept V3 -->
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/founder-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/founder-banner-light.svg">
-  <img src="./assets/founder-banner-light.svg" width="100%" alt="Govinda Lolge | Founder and Product Builder | Digvertise, YAPVO and VAaO™">
+  <source media="(max-width: 650px)" srcset="./assets/build-zine/cover-mobile.svg">
+  <img src="./assets/build-zine/cover-desktop.svg" width="100%" alt="The Build Zine: Govinda Lolge. My ideas don't sit still. Founder of Digvertise. Brands, creators and business technology.">
 </picture>
 
 <br>
 
-### Founder of Digvertise™ · Building YAPVO & VAaO™
+### GOVINDA LOLGE / FOUNDER, DIGVERTISE™
 
-**From business challenges to thoughtful digital products.**
+*Part strategy. Part curiosity. Fully committed to building things that matter.*
 
-<a href="https://digvertise.com/"><img src="https://img.shields.io/badge/Website-Digvertise-192A43?style=for-the-badge" alt="Visit Digvertise website"></a>
-<a href="https://www.linkedin.com/in/govinda-lolge/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="https://www.instagram.com/govindalolge/"><img src="https://img.shields.io/badge/Instagram-Follow-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"></a>
-<a href="mailto:govindalolge@digvertise.com"><img src="https://img.shields.io/badge/Email-Contact-167D79?style=for-the-badge" alt="Email Govinda"></a>
-
-<br><br>
-
-<a href="https://yapvo.com/"><img src="https://img.shields.io/badge/YAPVO-Website-5530C5?style=for-the-badge" alt="YAPVO website"></a>
-<a href="https://vaao.in/"><img src="https://img.shields.io/badge/VAaO™-Website-167D79?style=for-the-badge" alt="VAaO™ website"></a>
-<a href="https://play.google.com/store/apps/details?id=in.vaao.yapvo"><img src="https://img.shields.io/badge/YAPVO-Android%20App-249B55?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get YAPVO for Android on Google Play"></a>
+<a href="https://digvertise.com/"><img src="https://img.shields.io/badge/Explore-Digvertise-172D42?style=for-the-badge" alt="Visit Digvertise"></a>
+<a href="https://www.linkedin.com/in/govinda-lolge/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+<a href="mailto:govindalolge@digvertise.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-197A62?style=for-the-badge" alt="Email Govinda"></a>
 
 </div>
 
-## The founder's desk
+## `001 / Things that made it off the drawing board`
 
-I'm **Govinda Lolge**, the founder of **Digvertise™**.
+**Three different worlds. One founder's desk.** These are ventures and products I am building, not a list of code repositories.
 
-I work across **business strategy, product direction, digital experiences, and technology-led execution**, with a simple goal: build solutions that make a meaningful difference to how people and businesses work.
+<a href="https://digvertise.com/">
+  <img src="./assets/build-zine/digvertise.svg" width="100%" alt="Digvertise: Creative thinking. Real-world growth.">
+</a>
 
-My interests span creator technology, business operating systems, AI-assisted workflows, and the connection between good strategy and reliable execution.
+**[Digvertise™ ↗](https://digvertise.com/)** — My flagship brand, bringing together growth strategy, digital marketing, creative execution and technology.
 
-## Ventures & products
+<a href="https://yapvo.com/">
+  <img src="./assets/build-zine/yapvo.svg" width="100%" alt="YAPVO: creators aren't a side note.">
+</a>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**[YAPVO ↗](https://yapvo.com/)** — A creator-first platform being developed around social connection, professional opportunities and automation.  
+**[Explore website](https://yapvo.com/)** · **[Android app on Google Play](https://play.google.com/store/apps/details?id=in.vaao.yapvo)**
 
-### 🌐 [Digvertise™](https://digvertise.com/)
+<a href="https://vaao.in/">
+  <img src="./assets/build-zine/vaao.svg" width="100%" alt="VAaO: Less friction. More flow.">
+</a>
 
-**Digital growth & technology**
+**[VAaO™ ↗](https://vaao.in/)** — Digvertise's technology engine. A modular Business Operating System is in development, designed to make business operations more connected and practical.
 
-The flagship brand focused on brand growth, marketing strategy, creative execution, and technology-driven solutions.
+<sub>Product descriptions reflect direction and ongoing development. They don't imply that all planned capabilities are available today.</sub>
 
-</td>
-<td width="33%" valign="top">
+## `002 / My kind of workflow`
 
-### ✨ [YAPVO](https://yapvo.com/)
+<div align="center">
+  <img src="./assets/build-zine/build-loop.svg" width="100%" alt="Question, build, verify, improve: four steps in Govinda's product-building loop.">
+</div>
 
-**Creator-first platform**
+I'm interested in **the messy middle**: figuring out what a product should do, why it matters, how people will experience it, and whether the final thing actually works.
 
-Building a platform that brings together creator experiences, professional connections, and automation.
+I care about good design, privacy, useful automation and execution that stands up to real-world use.
 
-**Explore:** [Website](https://yapvo.com/) · [Android app on Google Play](https://play.google.com/store/apps/details?id=in.vaao.yapvo)
+## `003 / The person behind the projects`
 
-<sub>Product development in progress.</sub>
+I'm **Govinda Lolge**. I founded **Digvertise™**, and I'm building **YAPVO** and **VAaO™** as distinct parts of a bigger journey in digital products and business technology.
 
-</td>
-<td width="34%" valign="top">
+I don't think everything needs an AI badge, a complicated dashboard, or ten new features. I think it needs **a reason to exist**.
 
-### ⚙️ [VAaO™](https://vaao.in/)
+> Less performance. More meaningful progress.
 
-**Business technology & operations**
-
-The technology engine of Digvertise, with a modular Business Operating System taking shape.
-
-<sub>Product development in progress.</sub>
-
-</td>
-</tr>
-</table>
-
-## What drives my work
-
-| Direction | What it means |
-|:--|:--|
-| **Product thinking** | Solve real problems before adding features. |
-| **Thoughtful experiences** | Make complex systems feel clear, useful, and intuitive. |
-| **AI & automation** | Use intelligent workflows to reduce repetitive work. |
-| **Trust & execution** | Value reliability, privacy, and outcomes that can be verified. |
-| **Long-term building** | Create systems that can evolve as users and businesses grow. |
-
-## Current focus
-
-```text
-STRATEGY  →  PRODUCT  →  EXPERIENCE  →  EXECUTION
-
-DIGVERTISE   Brand growth & digital solutions
-YAPVO        Creator-first platform
-VAaO™         Modular business technology
-```
+## `004 / Got an interesting problem?`
 
 <div align="center">
 
-### Let's connect
+**Let's exchange ideas.**
 
-For product conversations, collaborations, or business inquiries:
+[**Email**](mailto:govindalolge@digvertise.com) · [**LinkedIn**](https://www.linkedin.com/in/govinda-lolge/) · [**Instagram**](https://www.instagram.com/govindalolge/)
 
-**[govindalolge@digvertise.com](mailto:govindalolge@digvertise.com)**
+[**Digvertise™**](https://digvertise.com/) · [**YAPVO**](https://yapvo.com/) · [**VAaO™**](https://vaao.in/)
 
-[Website](https://digvertise.com/) · [LinkedIn](https://www.linkedin.com/in/govinda-lolge/) · [Instagram](https://www.instagram.com/govindalolge/)
-
-<sub>Building with purpose. Improving through execution.</sub>
+<sub>Govinda Lolge · Maharashtra, India · Always a work in progress.</sub>
 
 </div>
