@@ -19,7 +19,7 @@ I focus on making technology useful, reliable, and easier to adopt.
 ### What I'm building
 
 - **Digvertise™** — A digital marketing and growth-focused brand combining strategy, creative execution, and technology.
-- **YAPVO™** — A creator-first platform in development, bringing together creator experiences, professional connections, and automation tools.
+- **YAPVO** — A creator-first platform in development, bringing together creator experiences, professional connections, and automation tools.
 - **VAaO™** — The technology engine of Digvertise, with a modular Business Operating System in development.
 
 ### Areas of focus
